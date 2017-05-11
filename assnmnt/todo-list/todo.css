@@ -1,0 +1,37 @@
+body {
+	background: steelblue;
+}
+
+.done {
+	text-decoration: line-through;
+	color: gray;	
+	font-size: 10px;
+}
+
+.todo {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.container {
+	width: 30%;
+	margin: 10% auto;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	text-align: left;
+}
+
+li {
+	background: lightgray;
+}
+
+input {
+	width: 80%;
+}
+
+.icon {
+	display: none;
+}
